@@ -1,0 +1,18 @@
+/*
+Theme Name:     child
+Description:    
+Author:         mleveck
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+h1 {
+    color:darkgreen
+}
+h2 {
+    color:lightseagreen
+}
+body{
+    color:darkslateblue
+}
