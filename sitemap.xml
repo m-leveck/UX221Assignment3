@@ -32,6 +32,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/honda-hobbit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/vw-beetle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/car/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/scooter/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
